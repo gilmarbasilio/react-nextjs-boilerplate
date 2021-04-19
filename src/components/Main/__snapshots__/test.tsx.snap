@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the colors correctly 1`] = `
+<main
+  class="sc-bdvvaa gtCIbR"
+>
+  <img
+    alt="Imagem de um átomo e React avançado escrotp ao lado"
+    class="sc-gsDJrp gmdndF"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="sc-dkPtyc hAfKgm"
+  >
+    React with Next.js
+  </h1>
+  <h2
+    class="sc-hKwCoD juJYMb"
+  >
+    TypeScript, Reactjs, Next.js and Styled Components
+  </h2>
+  <img
+    alt="Um desenvolvedor em frente a uma tela com código"
+    class="sc-eCImvq fGDyWK"
+    src="/img/hero-illustration.svg"
+  />
+</main>
+`;
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="sc-bdvvaa gtCIbR"
+>
+  <img
+    alt="Imagem de um átomo e React avançado escrotp ao lado"
+    class="sc-gsDJrp gmdndF"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="sc-dkPtyc hAfKgm"
+  >
+    React with Next.js
+  </h1>
+  <h2
+    class="sc-hKwCoD juJYMb"
+  >
+    TypeScript, Reactjs, Next.js and Styled Components
+  </h2>
+  <img
+    alt="Um desenvolvedor em frente a uma tela com código"
+    class="sc-eCImvq fGDyWK"
+    src="/img/hero-illustration.svg"
+  />
+</main>
+`;
